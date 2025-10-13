@@ -1,4 +1,6 @@
-centos:7
+dameng/dm8:latest
+
+
 #kylin-server-v10sp1-micro-aarch64:2021051
 #--platform=linux/arm64/v8 cr.kylinos.cn/kylin/kylin-server-v10sp2-micro-aarch64:20210524
 
