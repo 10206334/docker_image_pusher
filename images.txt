@@ -1,6 +1,9 @@
-ikubernetes/admin-box:latest
-envoyproxy/envoy-alpine:v1.13.1
-ikubernetes/demoapp:v1.0
+kong/kubernetes-ingress-controller:3.5
+kong:3.9
+
+#ikubernetes/admin-box:latest
+#envoyproxy/envoy-alpine:v1.13.1
+#ikubernetes/demoapp:v1.0
 
 
 #kylin-server-v10sp1-micro-aarch64:2021051
