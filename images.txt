@@ -1,4 +1,4 @@
-nicolaka/netshoot
+nicolaka/netshoot:latest
 
 #ikubernetes/admin-box:latest
 #envoyproxy/envoy-alpine:v1.13.1
