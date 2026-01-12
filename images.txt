@@ -1,5 +1,4 @@
-nginx:latest
-#nicolaka/netshoot:latest
+snowdreamtech/frps
 
 #ikubernetes/admin-box:latest
 #envoyproxy/envoy-alpine:v1.13.1
