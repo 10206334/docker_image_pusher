@@ -1,5 +1,4 @@
-minio/minio:RELEASE.2023-12-23T07-19-11Z
-
+redis:6.2.17
 
 #ikubernetes/admin-box:latest
 #envoyproxy/envoy-alpine:v1.13.1
