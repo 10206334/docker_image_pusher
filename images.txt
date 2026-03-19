@@ -1,4 +1,6 @@
-redis:6.2.17
+docker.io/library/odoo:18.0-20260305
+docker.io/library/postgres:15
+docker.io/library/nginx:1.27-alpine
 
 #ikubernetes/admin-box:latest
 #envoyproxy/envoy-alpine:v1.13.1
