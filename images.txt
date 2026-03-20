@@ -1,6 +1,7 @@
+frappe/bench:latest
 mariadb:10.8
 redis:alpine
-rappe/bench:latest
+
 
 
 #ikubernetes/admin-box:latest
