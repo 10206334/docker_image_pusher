@@ -1,7 +1,5 @@
-frappe/bench:latest
-mariadb:10.8
-redis:alpine
-
+jenkins/jenkins:2.414.3-lts-centos7
+jenkins/jenkins:2.430-centos7 
 
 
 #ikubernetes/admin-box:latest
