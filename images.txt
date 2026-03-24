@@ -1,5 +1,4 @@
-jenkins/jenkins:2.414.3-lts-centos7
-jenkins/jenkins:2.430-centos7 
+-platform linux/arm64/v8 osixia/keepalived:2.0.20
 
 
 #ikubernetes/admin-box:latest
