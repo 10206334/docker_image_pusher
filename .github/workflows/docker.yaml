@@ -20,9 +20,7 @@ jobs:
     steps:
     - name: Before freeing up disk space
       run: |
-        df -h
-        du -sh /*
-        
+        df -h        
         echo "Before freeing up disk space"
         echo "=============================================================================="
         df -hT
