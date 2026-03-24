@@ -1,4 +1,4 @@
--platform linux/arm64/v8 osixia/keepalived:2.0.20
+--platform linux/arm64/v8 osixia/keepalived:2.0.20
 
 
 #ikubernetes/admin-box:latest
